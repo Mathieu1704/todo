@@ -71,9 +71,10 @@ input {
     "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-weight: 300;
   margin-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   outline: none;
 }
+  
 
 button {
   width: 100%;
