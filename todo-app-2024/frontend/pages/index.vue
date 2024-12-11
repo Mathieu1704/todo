@@ -64,7 +64,7 @@ input {
   border: none;
   border-bottom: 1px black solid;
   background: none;
-  height: 50px;
+  height: 10px;
   line-height: 50px;
   font-size: 24px;
   font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont,
