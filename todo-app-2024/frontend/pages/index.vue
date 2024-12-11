@@ -87,7 +87,7 @@ button {
   font-weight: 600;
   cursor: pointer;
   outline: none;
-  margin-top: 20px;
+  margin-top: 1000px;
   border-radius: 10px;
 }
 </style>
